@@ -22,3 +22,5 @@ Hui Chen\*, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang\***, Borje Ka
 + Beijing Institute of Technology scholarship for scientific and technological progress(19/3000), 2017
 + Beijing Institute of Technology “Renmin” Scholarship(six times in a row), 2014-2017
 
+## My Resume
+Please feel free to check my <a href="/_screenshots/CV_Yusen_Zhang.pdf">CV</a>.
