@@ -10,7 +10,7 @@ My research interests lie within deep learning for Natural Language Processing, 
 
 ## Publications
 Hui Chen*, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang***, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. To appear in *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)*.
-** indicates students
+* indicates students
 
 ## Awards & Honors
 + Bronze Medal, ACM-ICPC (International Collegiate Programming Contest) Asia Regional Contest, 2016.10.16
