@@ -9,8 +9,8 @@ I got my bachelor's degree in Computer Science and Technology, School of Compute
 My research interests lie within deep learning for Natural Language Processing, particularly in Named Entity Recognition. I am also involved in Machine Learning theory like optimization algorithms.
 
 ## Publications
-**Hui Chen**, Zijia Lin, Guiguang Ding, Jianguang Lou, ***Yusen Zhang***, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. To appear in *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)*.
-*Bold indicates students
+Hui Chen\*, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang\***, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. To appear in *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)*.
+\* indicates students
 
 ## Awards & Honors
 + Bronze Medal, ACM-ICPC (International Collegiate Programming Contest) Asia Regional Contest, 2016.10.16
