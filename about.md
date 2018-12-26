@@ -23,4 +23,4 @@ Hui Chen\*, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang\***, Borje Ka
 + Beijing Institute of Technology “Renmin” Scholarship(six times in a row), 2014-2017
 
 ## My Resume
-Please feel free to view my <a href="/_category/CV_Yusen_Zhang.pdf">CV</a>.
+Please feel free to view my <a href="/_category/CV_Yusen_Zhang.pdf" download="CV_Yusen_Zhang">CV</a>.
