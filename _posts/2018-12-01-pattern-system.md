@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post: Standard"
+title: "PatternSystem: An Rule Based Intent Recognition Platform"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
