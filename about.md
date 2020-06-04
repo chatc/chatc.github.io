@@ -24,3 +24,6 @@ Hui Chen\*, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang\***, Borje Ka
 
 ## My Resume
 Please feel free to view my <a href="{{ site.baseurl }}/assets/CV_Yusen_Zhang.pdf">CV</a>.
+
+## My Friends
+[Zhihao Yu](https://scarofsky.github.io)
