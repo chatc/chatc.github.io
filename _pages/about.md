@@ -25,7 +25,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-\[2018.8\] Started my PhD study at NLP Lab @ Penn State. I am fortunate to be supervised by Prof. [Rui Zhang](https://ryanzhumich.github.io/)!
+\[2021.8\] Started my PhD study at NLP Lab @ Penn State. I am fortunate to be supervised by Prof. [Rui Zhang](https://ryanzhumich.github.io/)!
 
 \[2021.5\] Got one paper accepted at **ACL 2021 Findings**. Thanks to all my collaborators!
 
