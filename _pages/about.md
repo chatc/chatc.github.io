@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Yusen Zhang, an in-coming CS PhD student at Penn State University. I received my master's degree from Emory University, advised by Professor [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my Bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
+Hi~ I am Yusen Zhang, an incoming CS PhD student at Penn State University. I received my master's degree from Emory University, advised by Professor [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my Bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
 
 
 Research
