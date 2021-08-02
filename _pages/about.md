@@ -25,4 +25,4 @@ News
 
 \[2021.5\] Got one paper accepted to **ACL 2021 Findings**. Thanks to all my collaborators!
 
-\[2021.1\] Started my research assistant at at [Lily Lab @ Yale University](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Dragomir Radev. Excited to work with the talented NLPer!
+\[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). Excited to work with the talented NLPer!
