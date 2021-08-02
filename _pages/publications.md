@@ -13,7 +13,7 @@ Did You Ask a Good Question? A Cross-Domain Question Intention Classification Be
 Yusen Zhang\*, Xiangyu Dong\*, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang\
 Intex-Sempar workshop @EMNLP 2020.
 
-GRN: Gated relation network to enhance convolutional neural network for named entity recognition.\
+GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.\
 Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson\
 AAAI 2019.
 
