@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Yusen's Homepage"
 title_separator          : "-"
-subtitle                 : "I am subtitle" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yusen Zhang"
 description              : "PhD Student in Computer Science"
 url                      : "yuszh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,17 +102,17 @@ analytics:
 # Site Author
 author:
   name             : "Yusen Zhang"
-  avatar           : "/asserts/image/yusen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/yusen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student at Penn State University"
   location         : "State College, PA"
   email            : "yfz5488@psu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yfz5488@psu.edu"
+      url: "http://yfz5488@psu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "yuszh.com"
+      url: "http://www.yuszh.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
