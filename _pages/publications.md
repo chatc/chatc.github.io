@@ -17,4 +17,4 @@ GRN: Gated relation network to enhance convolutional neural network for named en
 Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson\
 AAAI 2019.
 
-* indicates equal contribution
+\* indicates equal contribution
