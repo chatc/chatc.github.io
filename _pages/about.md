@@ -27,6 +27,6 @@ News
 ======
 \[2018.8\] Started my PhD study at NLP Lab @ Penn State. I am fortunate to be supervised by Prof. [Rui Zhang](https://ryanzhumich.github.io/)!
 
-\[2021.5\] Got one paper accepted to **ACL 2021 Findings**. Thanks to all my collaborators!
+\[2021.5\] Got one paper accepted at **ACL 2021 Findings**. Thanks to all my collaborators!
 
-\[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). Excited to work with the talented NLPer!
+\[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
