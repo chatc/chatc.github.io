@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Logic-Consistency Text Generation from Semantic Parses. \
+**Logic-Consistency Text Generation from Semantic Parses.** \
 Chang Shu\*, Yusen Zhang\*, Xiangyu Dong, Peng Shi, Tao Yu, Rui Zhang\
 Findings of ACL 2021.
 
-Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.\
+**Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.**\
 Yusen Zhang\*, Xiangyu Dong\*, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang\
 Intex-Sempar workshop @EMNLP 2020.
 
-GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.\
+**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.**\
 Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson\
 AAAI 2019.
 
