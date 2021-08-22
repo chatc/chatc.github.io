@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusen's Homepage"
 title_separator          : "-"
 name                     : &name "Yusen Zhang"
-description              : &description "Incoming PhD Student at Penn State University"
+description              : &description "PhD Student at Penn State University"
 url                      : https://yuszh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chatc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yusen Zhang"
   avatar           : "yusen.jpg"
-  bio              : "Incoming PhD Student at Penn State University"
+  bio              : "PhD Student at Penn State University"
   location         : "State College, PA"
   employer         :
   pubmed           :
