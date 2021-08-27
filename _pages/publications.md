@@ -17,11 +17,11 @@ Findings of EMNLP 2021.
 Chang Shu\*, Yusen Zhang\*, Xiangyu Dong, Peng Shi, Tao Yu, Rui Zhang\
 Findings of ACL 2021.
 
-**Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.** [\[LINK\]](https://arxiv.org/pdf/2010.12634.pdf)\
+**Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.** [\[PDF\]](https://arxiv.org/pdf/2010.12634.pdf)\
 Yusen Zhang\*, Xiangyu Dong\*, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang\
 Intex-Sempar workshop @EMNLP 2020.
 
-**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.** [\[LINK\]](https://arxiv.org/pdf/1907.05611.pdf)\
+**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.** [\[PDF\]](https://arxiv.org/pdf/1907.05611.pdf)\
 Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson\
 AAAI 2019.
 
