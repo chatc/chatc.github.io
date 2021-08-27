@@ -13,15 +13,15 @@ EMNLP 2021 Demo.
 Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah and Dragomir Radev\
 Findings of EMNLP 2021.
 
-**Logic-Consistency Text Generation from Semantic Parses.** [\[LINK\]](https://arxiv.org/abs/2108.00577) \
+**Logic-Consistency Text Generation from Semantic Parses.** [\[PDF\]](https://arxiv.org/pdf/2108.00577.pdf) \
 Chang Shu\*, Yusen Zhang\*, Xiangyu Dong, Peng Shi, Tao Yu, Rui Zhang\
 Findings of ACL 2021.
 
-**Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.** [\[LINK\]](https://arxiv.org/abs/2010.12634)\
+**Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL.** [\[LINK\]](https://arxiv.org/pdf/2010.12634.pdf)\
 Yusen Zhang\*, Xiangyu Dong\*, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang\
 Intex-Sempar workshop @EMNLP 2020.
 
-**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.** [\[LINK\]](https://arxiv.org/abs/1907.05611)\
+**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.** [\[LINK\]](https://arxiv.org/pdf/1907.05611.pdf)\
 Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson\
 AAAI 2019.
 
