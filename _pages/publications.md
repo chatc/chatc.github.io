@@ -10,7 +10,7 @@ Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, A
 EMNLP 2021 Demo.
 
 **An Exploratory Study on Long Dialogue Summarization: What Works and What's Next**\
-Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev\
+Yusen Zhang\*, Ansong Ni\*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev\
 Findings of EMNLP 2021.
 
 **Logic-Consistency Text Generation from Semantic Parses.** [\[PDF\]](https://arxiv.org/pdf/2108.00577.pdf) \
