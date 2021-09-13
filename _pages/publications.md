@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-**SummerTime: Text Summarization Toolkit for Non-experts**\  [\[PDF\]](https://arxiv.org/abs/2108.12738)
+**SummerTime: Text Summarization Toolkit for Non-experts**  [\[PDF\]](https://arxiv.org/abs/2108.12738) \
 Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, Dragomir Radev\
 EMNLP 2021 Demo.
 
-**An Exploratory Study on Long Dialogue Summarization: What Works and What's Next**\ [\[PDF\]](\https://arxiv.org/pdf/2109.04609.pdf)
+**An Exploratory Study on Long Dialogue Summarization: What Works and What's Next** [\[PDF\]](https://arxiv.org/pdf/2109.04609.pdf) \
 Yusen Zhang\*, Ansong Ni\*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev\
 Findings of EMNLP 2021.
 
