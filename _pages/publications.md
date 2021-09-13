@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**SummerTime: Text Summarization Toolkit for Non-experts**  [\[PDF\]](https://arxiv.org/abs/2108.12738) \
+**SummerTime: Text Summarization Toolkit for Non-experts**  [\[PDF\]](https://arxiv.org/pdf/2108.12738.pdf) \
 Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, Dragomir Radev\
 EMNLP 2021 Demo.
 
