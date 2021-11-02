@@ -11,7 +11,7 @@ author_profile: true
 Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang.
 
 **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** [\[PDF\]](https://arxiv.org/pdf/2110.08168.pdf) \
-Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev.
+Ziming Mao\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev.
 
 **Publications**
 
