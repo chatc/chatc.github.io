@@ -5,15 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Pre-prints**
+**Publications**
+
+**2022**
 
 **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** [\[PDF\]](https://arxiv.org/pdf/2110.10150.pdf) \
-Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang.
+Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang\
+ACL 2022.
 
 **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** [\[PDF\]](https://arxiv.org/pdf/2110.08168.pdf) \
-Ziming Mao\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev.
+Ziming Mao\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
+ACL 2022.
 
-**Publications**
 
 **2021**
 
