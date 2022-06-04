@@ -25,7 +25,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-\[2022.2\] Start Applied Scientist Internship at AWS AI lab @ Amazon Web Service, advised by Dr. Xiaofei Ma!
+\[2022.6\] Start Applied Scientist Internship at AWS AI lab @ Amazon Web Service, advised by Dr. Xiaofei Ma!
 
 \[2022.2\] Got two papers accepted at ACL 2022. Thanks to all my collaborators!
 
