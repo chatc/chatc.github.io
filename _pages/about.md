@@ -25,7 +25,6 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-<div style="height: 300px; overflow-y: scroll;">
 
 \[2022.12\] Give a talk at [Westlate NLP](https://westlakenlp.github.io/nlpml/) on [Controllable Text Summarization](https://arxiv.org/pdf/2211.05041.pdf). Thanks for having me!
 
@@ -44,5 +43,3 @@ News
 \[2021.5\] Got one paper accepted at ACL 2021. Thanks to all my collaborators!
 
 \[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
-
-</div>
