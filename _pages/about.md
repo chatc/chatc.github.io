@@ -25,6 +25,10 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
+\[2022.12\] Give a talk at [Westlate NLP](https://westlakenlp.github.io/nlpml/) on [Controllable Text Summarization](https://arxiv.org/pdf/2211.05041.pdf). Thanks for having me!
+
+\[2022.7\] Receive Dr. Tse-Yun Feng Graduate Student Award @ PSU CSE. Thanks everyone!
+
 \[2022.6\] Start Applied Scientist Internship at AWS AI lab @ Amazon Web Service, advised by Dr. Xiaofei Ma!
 
 \[2022.2\] Got two papers accepted at ACL 2022. Thanks to all my collaborators!
