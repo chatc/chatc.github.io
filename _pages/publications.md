@@ -7,11 +7,13 @@ author_profile: true
 
 **Publications**
 
-**2022**
+**2023**
 
 **MACSum: Controllable Summarization with Mixed Attributes** [\[PDF\]](https://arxiv.org/pdf/2211.05041.pdf) [\[Code\]](https://github.com/psunlpgroup/MACSum)\
 **Yusen Zhang**, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang\
-Preprint.
+TACL 2023.
+
+**2022**
 
 **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** [\[PDF\]](https://arxiv.org/pdf/2110.10150.pdf) [\[Code\]](https://github.com/psunlpgroup/Summ-N)\
 **Yusen Zhang**, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang\
