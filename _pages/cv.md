@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please feel free to check my [CV](/files/Yusen_Zhang_s_CV_23_Feb.pdf) (Last update: Nov. 2022).
+Please feel free to check my [CV](/files/Yusen_Zhang_s_CV_23_Feb.pdf) (Last update: Feb. 2023).
 
 Visiting Counter (monthly):
 
