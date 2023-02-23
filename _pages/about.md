@@ -26,6 +26,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 News
 ======
 
+\[2023.2\] Got one paper accepted at TACL 2023 (type (a) accepted as is, around 5%). Thanks to all my collaborators!
+
 \[2022.12\] Give a talk at [Westlate NLP](https://westlakenlp.github.io/nlpml/) on [Controllable Text Summarization](https://arxiv.org/pdf/2211.05041.pdf). Thanks for having me!
 
 \[2022.7\] Receive Dr. Tse-Yun Feng Graduate Student Award @ PSU CSE. Thanks everyone!
