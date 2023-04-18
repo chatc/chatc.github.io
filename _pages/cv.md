@@ -9,6 +9,8 @@ redirect_from:
 
 Please feel free to check my [CV](/files/Yusen_Zhang_s_CV_23_Feb.pdf) (Last update: Feb. 2023).
 
-Visiting Counter (monthly):
+
+_The value of a man resides in what he gives and not in what he is capable of receiving._
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SBSSebRlIqacoeGBvJj1j7m-VcoLXRl5V5oqszSHfxM"></script>
