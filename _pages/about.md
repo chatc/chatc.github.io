@@ -26,6 +26,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 News
 ======
 
+\[2023.2\] Oral talk at [MASC-SLL 2023](https://www.mascsll.org/) at Georgetown Mason University (Arlington campus)!
+
 \[2023.2\] Got one paper accepted at TACL 2023 (acceptance type (a) accepted as is, ~= 5%!). Thanks to all my collaborators!
 
 \[2022.12\] Give a talk at [Westlate NLP](https://westlakenlp.github.io/nlpml/) on [Controllable Text Summarization](https://arxiv.org/pdf/2211.05041.pdf). Thanks for having me!
