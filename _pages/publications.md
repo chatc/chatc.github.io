@@ -9,6 +9,11 @@ author_profile: true
 
 **2023**
 
+**XSemPLR: Benchmarking Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations** \[PDF\] \[Code\] \
+**Yusen Zhang**, Jun Wang, Zhiguo Wang, Rui Zhang\
+ACL 2023.
+
+
 **MACSum: Controllable Summarization with Mixed Attributes** [\[PDF\]](https://arxiv.org/pdf/2211.05041.pdf) [\[Code\]](https://github.com/psunlpgroup/MACSum)\
 **Yusen Zhang**, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang\
 TACL 2023.
