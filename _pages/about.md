@@ -26,7 +26,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 News
 ======
 
-\[2023.5\] Got XSemPLR accepted at ACL 2023. Thanks to all my collaborators!
+\[2023.5\] Got one paper accepted at ACL 2023. Thanks to all my collaborators!
 
 \[2023.4\] Oral talk at [MASC-SLL 2023](https://www.mascsll.org/) at Georgetown Mason University (Arlington campus)!
 
