@@ -9,7 +9,7 @@ author_profile: true
 
 **2023**
 
-**XSemPLR: Benchmarking Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations** \[PDF\] \[Code\] \
+**XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations** [\[PDF\]](https://arxiv.org/pdf/2306.04085.pdf) [\[Code\]](https://github.com/psunlpgroup/XSemPLR) \
 **Yusen Zhang**, Jun Wang, Zhiguo Wang, Rui Zhang\
 ACL 2023.
 
