@@ -9,7 +9,7 @@ author_profile: true
 
 **2023**
 
-**FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization** [\[PDF\]] ([https://arxiv.org/pdf/2306.04085.pdf](https://openreview.net/forum?id=KkR8wahYQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2023%2FConference%2FAuthors%23your-submissions))) [\[Code\]]() \
+**FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization** [\[PDF\]]([https://arxiv.org/pdf/2306.04085.pdf](https://openreview.net/forum?id=KkR8wahYQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2023%2FConference%2FAuthors%23your-submissions))) [\[Code\]]() \
 Nan Zhang, **Yusen Zhang**, Wu Guo, Prasenjit Mitra, Rui Zhang\
 EMNLP 2023.
 
