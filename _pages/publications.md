@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **Preprints**
+
 **Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
 **Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang\
 
