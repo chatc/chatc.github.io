@@ -7,14 +7,14 @@ author_profile: true
 **Preprints**
 
 **Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
-**Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang\
+**Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang \
 
 **Publications**
 
 **2023**
 
 **FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization** [\[PDF\]](https://arxiv.org/pdf/2311.02271.pdf) [\[Code\]](https://github.com/psunlpgroup/FaMeSumm) \
-Nan Zhang, **Yusen Zhang**, Wu Guo, Prasenjit Mitra, Rui Zhang\
+Nan Zhang, **Yusen Zhang**, Wu Guo, Prasenjit Mitra, Rui Zhang \
 EMNLP 2023.
 
 **XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations** [\[PDF\]](https://arxiv.org/pdf/2306.04085.pdf) [\[Code\]](https://github.com/psunlpgroup/XSemPLR) \
