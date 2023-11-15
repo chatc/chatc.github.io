@@ -4,12 +4,15 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**Preprints**
+**Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
+**Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang\
 
 **Publications**
 
 **2023**
 
-**FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization** [\[PDF\]](https://openreview.net/forum?id=KkR8wahYQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2023%2FConference%2FAuthors%23your-submissions)) [\[Code\]]() \
+**FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization** [\[PDF\]](https://arxiv.org/pdf/2311.02271.pdf) [\[Code\]](https://github.com/psunlpgroup/FaMeSumm) \
 Nan Zhang, **Yusen Zhang**, Wu Guo, Prasenjit Mitra, Rui Zhang\
 EMNLP 2023.
 
