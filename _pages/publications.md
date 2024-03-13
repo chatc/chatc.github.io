@@ -4,12 +4,15 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-**Preprints**
+
+**Publications**
+
+**2024**
 
 **Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
 **Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang
+NAACL 2024.
 
-**Publications**
 
 **2023**
 
@@ -21,10 +24,10 @@ EMNLP 2023.
 **Yusen Zhang**, Jun Wang, Zhiguo Wang, Rui Zhang\
 ACL 2023.
 
-
 **MACSum: Controllable Summarization with Mixed Attributes** [\[PDF\]](https://arxiv.org/pdf/2211.05041.pdf) [\[Code\]](https://github.com/psunlpgroup/MACSum)\
 **Yusen Zhang**, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang\
 TACL 2023.
+
 
 **2022**
 
