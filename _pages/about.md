@@ -25,6 +25,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
+\[2024.3\] Got one paper accepted at NAACL 2024. Thanks to all my collaborators!
+
 \[2023.8\] Got one paper accepted at EMNLP 2023. Thanks Nan Zhang and other collaborators!
 
 \[2023.8\] Start Student Researcher Internship at [Cloud AI Team @ Google Research](https://research.google/teams/cloud-ai/), advised by Dr. Ruoxi Sun!
