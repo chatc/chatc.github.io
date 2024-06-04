@@ -9,7 +9,7 @@ author_profile: true
 
 **2024**
 
-**When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs** [\[PDF\]]([https://arxiv.org/pdf/2311.07884.pdf](https://arxiv.org/pdf/2406.01297)) \
+**When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs** [\[PDF\]]([https://arxiv.org/pdf/2311.07884.pdf]) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Jiawei Han, Rui Zhang \
 preprint.
 
