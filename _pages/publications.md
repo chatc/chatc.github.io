@@ -10,7 +10,7 @@ author_profile: true
 **2024**
 
 **Chain of Agents: Large Language Models Collaborating on Long-Context Tasks** [\[PDF\]](https://arxiv.org/pdf/2406.02818) \
-**Yusen Zhang**, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang*, Sercan Ö. Arik*
+**Yusen Zhang**, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang*, Sercan Ö. Arik* \
 preprint.
 
 **When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs** [\[PDF\]](https://arxiv.org/pdf/2406.01297) \
