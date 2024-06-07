@@ -17,6 +17,10 @@ preprint.
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Jiawei Han, Rui Zhang \
 preprint.
 
+**Evaluating LLMs at Detecting Errors in LLM Responses** [PDF](https://arxiv.org/pdf/2404.03602) \
+Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, Jihyun Janice Ahn, Yilun Zhao, Xiaoxin Lu, Nan Zhang, **Yusen Zhang**, Ranran Haoran Zhang, Sujeeth Reddy Vummanthala, Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang \
+preprint.
+
 **Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
 **Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang \
 NAACL 2024.
