@@ -9,7 +9,7 @@ author_profile: true
 
 **2024**
 
-**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks** [\[PDF\]](https://arxiv.org/pdf/2406.02818) \
+**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks** [\[PDF\]](https://arxiv.org/pdf/2406.02818) [\[Webpage\]](https://yuszh.com/chain-of-agents/)\
 **Yusen Zhang**, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang\*, Sercan Ö. Arık* \
 preprint.
 
