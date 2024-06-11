@@ -9,8 +9,6 @@ author_profile: true
 
 **2024**
 
-Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models
-
 **Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2406.05948)
 Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang
 preprint.
