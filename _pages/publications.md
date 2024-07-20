@@ -19,11 +19,11 @@ preprint.
 
 **When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs** [\[PDF\]](https://arxiv.org/pdf/2406.01297) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Jiawei Han, Rui Zhang \
-COLM 2024.
+Preprint.
 
 **Evaluating LLMs at Detecting Errors in LLM Responses** [\[PDF\]](https://arxiv.org/pdf/2404.03602) [\[Code\]](https://github.com/psunlpgroup/ReaLMistake) \
 Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, Jihyun Janice Ahn, Yilun Zhao, Xiaoxin Lu, Nan Zhang, **Yusen Zhang**, Ranran Haoran Zhang, Sujeeth Reddy Vummanthala, Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang \
-preprint.
+COLM 2024.
 
 **Fair Abstractive Summarization of Diverse Perspectives** [\[PDF\]](https://arxiv.org/pdf/2311.07884.pdf) [\[Code\]](https://github.com/psunlpgroup/FairSumm) \
 **Yusen Zhang**, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang \
