@@ -26,6 +26,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 News
 ======
 
+\[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!
+
 \[2024.7\] One paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
 
 \[2024.3\] Got one paper accepted at NAACL 2024. Thanks to all my collaborators!
