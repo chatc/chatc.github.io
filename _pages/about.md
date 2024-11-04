@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Yusen Zhang, a fourth-year CS PhD student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
+Hi~ I am Yusen Zhang, a fourth-year CS PhD student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
 
 
 Research
 ======
-My research interests lie in applying Deep Learning for Natural Language Processing, focusing on Natural Language Generation. Specifically I am interested in the following research topics:  
+My research interests lie in applying Deep Learning for Natural Language Processing, focusing on Natural Language Generation. Specifically, I am interested in the following research topics:  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Agentic, executable Large Language Models.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Trust worthy, controllable document and dialogue text summarization.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Language Generation Evaluation and applications.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Multi-Agent Large Language Model systems.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Human-centric Large Language Model evaluation and applications.**  
 
 
-I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
+I am applying for a postdoc position of Fall 2025 to continue my research on multiagent LLM systems. Also, I am open to academic collaborations and please drop me an email if you are interested in collaborating with me!
 
 News
 ======
