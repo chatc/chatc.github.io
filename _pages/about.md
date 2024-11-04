@@ -24,9 +24,7 @@ I am applying for postdoctoral positions starting in Fall 2025 to advance my res
 
 News
 ======
-<div style="width: 100%; height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-
-<p>\[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!</p>
+\[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!
 
 \[2024.7\] One paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
 
@@ -59,4 +57,3 @@ News
 \[2021.5\] Got one paper accepted at ACL 2021. Thanks to all my collaborators!
 
 \[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
-</div>
