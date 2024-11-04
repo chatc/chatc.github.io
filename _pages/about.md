@@ -24,9 +24,9 @@ My research interests lie in applying Deep Learning for Natural Language Process
 
 News
 ======
-<div style="width: 1300px; height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="width: 100%; height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-[2024.9] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!
+<p>\[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!</p>
 
 \[2024.7\] One paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
 
