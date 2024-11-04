@@ -20,10 +20,11 @@ My research interests lie in applying Deep Learning for Natural Language Process
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Human-centric Large Language Model evaluation and applications.**  
 
 
-_I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I am actively seeking opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!_
+<u>I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I am actively seeking opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!</u>
 
 News
 ======
+<div style="width: 300px; height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 \[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!
 
@@ -52,6 +53,7 @@ News
 \[2022.2\] Start Research Internship at [Cognitive Service Research Group @ Microsoft Research](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), advised by Dr. [Yang Liu](https://nlp-yang.github.io/).
 
 \[2021.8\] Got two papers accepted at EMNLP 2021. Thanks to all my collaborators!
+</div>
 
 \[2021.8\] Started my PhD study at NLP Lab @ Penn State. I am fortunate to be supervised by Prof. [Rui Zhang](https://ryanzhumich.github.io/)!
 
