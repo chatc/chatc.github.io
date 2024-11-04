@@ -53,10 +53,10 @@ News
 \[2022.2\] Start Research Internship at [Cognitive Service Research Group @ Microsoft Research](https://www.microsoft.com/en-us/research/group/cognitive-services-research/), advised by Dr. [Yang Liu](https://nlp-yang.github.io/).
 
 \[2021.8\] Got two papers accepted at EMNLP 2021. Thanks to all my collaborators!
-</div>
 
 \[2021.8\] Started my PhD study at NLP Lab @ Penn State. I am fortunate to be supervised by Prof. [Rui Zhang](https://ryanzhumich.github.io/)!
 
 \[2021.5\] Got one paper accepted at ACL 2021. Thanks to all my collaborators!
 
 \[2021.1\] Started to work as a research assistant at Lily Lab @ Yale University, advised by Dr. [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
+</div>
