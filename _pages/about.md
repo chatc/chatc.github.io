@@ -20,7 +20,7 @@ My research interests lie in applying Deep Learning for Natural Language Process
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Human-centric Large Language Model evaluation and applications.**  
 
 
-I am applying for a postdoc position of Fall 2025 to continue my research on multiagent LLM systems. Please contact me if you know of any related openings and opportunities. Also, I am open to academic collaborations and please drop me an email if you are interested in collaborating with me!
+I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I am actively seeking opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!
 
 News
 ======
