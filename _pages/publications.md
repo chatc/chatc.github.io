@@ -9,6 +9,10 @@ author_profile: true
 
 **2024**
 
+**Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858v1) \
+**Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang \
+preprint.
+
 **AAAR-1.0: Assessing AI's Potential to Assist Research** [\[PDF\]](https://arxiv.org/pdf/2410.22394) \
 Renze Lou, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, **Yusen Zhang**, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia, Lifu Huang, Wenpeng Yin \
 preprint.
