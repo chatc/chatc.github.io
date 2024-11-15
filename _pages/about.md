@@ -16,10 +16,14 @@ Research
 My research interests lie in applying Deep Learning for Natural Language Processing, focusing on Natural Language Generation. Specifically, I am interested in the following research topics:  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Multi-Agent Large Language Model systems.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model systems.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Human-centric Large Language Model evaluation and applications.**  
 
-
+To answer the following research questions:
+1. How can we design mechanisms to facilitate efficient, accurate, and context-aware communication between LLMs?
+2. How can we harness the collective intelligence of LLMs to address reasoning challenges and high-stakes decision-making tasks?
+3. What technological, ethical, and policy frameworks should we establish to ensure the responsible integration of collaborative LLM systems into society?
+   
 I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I am actively seeking opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!
 
 News
