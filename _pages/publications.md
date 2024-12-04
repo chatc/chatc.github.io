@@ -9,7 +9,7 @@ author_profile: true
 
 **2024**
 
-**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA))\
+**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
 Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
 preprint.
 
