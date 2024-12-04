@@ -9,6 +9,10 @@ author_profile: true
 
 **2024**
 
+**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]] \
+Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
+preprint.
+
 **Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858v1) \
 **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang \
 preprint.
