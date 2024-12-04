@@ -25,7 +25,7 @@ preprint.
 Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang \
 preprint.
 
-**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks** [\[PDF\]](https://arxiv.org/pdf/2406.02818) [\[Webpage\]](https://yuszh.com/chain-of-agents/)\
+**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks** [\[PDF\]](https://arxiv.org/pdf/2406.02818) [\[Webpage\]]([https://yuszh.com/chain-of-agents/](https://yszh8.github.io/chain-of-agents/))\
 **Yusen Zhang**, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang\*, Sercan Ö. Arık* \
 NeurIPS 2024.
 
