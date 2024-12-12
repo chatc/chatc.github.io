@@ -13,7 +13,7 @@ author_profile: true
 Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
 preprint.
 
-**Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858v1) [\[Code\]\](https://github.com/psunlpgroup/VerbosityLLM) \
+**Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858v1) [\[Code\]]([https://github.com/psunlpgroup/VisOnlyQA](https://github.com/psunlpgroup/VerbosityLLM)\
 **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang \
 preprint.
 
