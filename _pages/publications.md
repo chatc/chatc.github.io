@@ -9,6 +9,10 @@ author_profile: true
 
 **2024**
 
+**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers** [\[PDF\]](https://arxiv.org/pdf/2412.09722) [\[Code\]](https://github.com/psunlpgroup/GreaTer) \
+Sarkar Snigdha Sarathi Das, Ryo Kamoi, Bo Pang, **Yusen Zhang**, Caiming Xiong, Rui Zhang \
+preprint.
+
 **VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
 Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
 preprint.
