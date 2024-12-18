@@ -9,6 +9,10 @@ author_profile: true
 
 **2024**
 
+**Coverage-based Fairness in Multi-document Summarization** [\[PDF\]](https://arxiv.org/pdf/2412.08795) \
+Haoyuan Li, **Yusen Zhang**, Rui Zhang, Snigdha Chaturvedi \
+preprint.
+
 **GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers** [\[PDF\]](https://arxiv.org/pdf/2412.09722) [\[Code\]](https://github.com/psunlpgroup/GreaTer) \
 Sarkar Snigdha Sarathi Das, Ryo Kamoi, Bo Pang, **Yusen Zhang**, Caiming Xiong, Rui Zhang \
 preprint.
